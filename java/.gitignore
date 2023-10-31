@@ -4,7 +4,6 @@ target
 .settings
 .classpath
 lib
-natives
 
 # idea
 .idea
